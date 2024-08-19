@@ -21,10 +21,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
 import jakarta.servlet.http.Part;
 import jakarta.servlet.ServletContext;
-/**
- *
- * @author Durgesh
- */
+
 @MultipartConfig
 public class AddPostServlet extends HttpServlet {
 
