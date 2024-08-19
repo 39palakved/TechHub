@@ -23,10 +23,7 @@ import jakarta.servlet.http.HttpServletResponse;
 import jakarta.servlet.http.HttpSession;
 import jakarta.servlet.http.Part;
 
-/**
- *
- * @author Durgesh
- */
+
 @MultipartConfig
 public class EditServlet extends HttpServlet {
 
