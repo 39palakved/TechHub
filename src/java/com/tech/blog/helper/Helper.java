@@ -9,10 +9,7 @@ import java.io.File;
 import java.io.FileOutputStream;
 import java.io.InputStream;
 
-/**
- *
- * @author Durgesh
- */
+
 public class Helper {
 
     public static boolean deleteFile(String path) {
