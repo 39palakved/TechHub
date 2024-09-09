@@ -1,1 +1,2 @@
-# TechHub (Your Ultimate Resource for Tech Insights and Tutorials)
+# TechHub
+(Your Ultimate Resource for Tech Insights and Tutorials)
