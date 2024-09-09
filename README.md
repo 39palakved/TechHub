@@ -1,7 +1,8 @@
 # TechHub
 (Ultimate Resource for Tech Insights and Tutorials)<br>
 ## Technology 
-* java ,jsp, servlet ,mysql
+* java ,jsp, servlet ,mysql<br>
+
 #Output
 <img src="https://github.com/user-attachments/assets/cc159286-b3c1-4ee8-bb22-13a066347965" width="600">
 
