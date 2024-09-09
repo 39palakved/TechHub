@@ -3,7 +3,7 @@
 ## Technology 
 * java jsp servlet mysql<br>
 
-# Output
+## Output
 
 <img src="https://github.com/user-attachments/assets/cc159286-b3c1-4ee8-bb22-13a066347965" width="600">
 
@@ -17,5 +17,12 @@
 <img src="https://github.com/user-attachments/assets/f4633a7f-b0a2-4efd-a394-aa2a63977915" width="600">
 <img src="https://github.com/user-attachments/assets/d25f9b4d-4192-4bda-b622-ac124888c7cc" width="600">
 <img src="https://github.com/user-attachments/assets/ef40382c-1d17-4b42-9ff8-050537d3d168" width="600">
+
+## Database 
+
+<img src="https://github.com/user-attachments/assets/c35ad095-0fe6-4da6-9ddb-7a6fd20472cd" width="600">
+<img src="https://github.com/user-attachments/assets/66a93ac7-1cf3-445f-9fe8-dbca75139a9c" width="600">
+<img src="https://github.com/user-attachments/assets/3c6b48ed-8aa9-4292-af94-94f20b74abc4" width="600">
+
 
 
