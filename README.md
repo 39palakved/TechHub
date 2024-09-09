@@ -1,5 +1,5 @@
 # TechHub
-(Your Ultimate Resource for Tech Insights and Tutorials)<br>
+(Ultimate Resource for Tech Insights and Tutorials)<br>
 
 <img src="https://github.com/user-attachments/assets/cc159286-b3c1-4ee8-bb22-13a066347965" width="600">
 
